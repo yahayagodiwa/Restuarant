@@ -271,6 +271,7 @@ header ul li:hover {
   width: 90%;
   padding: 10px;
   border: none;
+  outline: none;
   border-radius: 25px;
 }
 
